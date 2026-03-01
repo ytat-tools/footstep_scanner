@@ -1,5 +1,4 @@
-# footstep_scanner
-【直下掘りチェッカー】
+# 【直下掘りチェッカー】footstep_scanner
 
 Minecraft用の鉱石探索ツールです。
 
