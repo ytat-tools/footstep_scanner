@@ -8,9 +8,9 @@ Minecraft用の鉱石探索ツールです。
 ・通常長押し：詳細スキャン
 
 ## 取得方法
-/give @s ytat:footstep_scanner
+ガラスブロック+棒でクラフト可能。
+コマンドなら /give @s ytat:footstep_scanner
 あるいはクリエで道具の区分から…
-※レシピは後日実装予定！
 
 ## 配布元
 YouTube ゆっとあっとチャンネル
